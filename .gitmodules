@@ -1,4 +1,4 @@
 [submodule "netlink-agent"]
 	path = netlink-agent
-	url = https://github.com/Juniper/netlink-agent
+	url = https://github.com/Juniper/netlink-agent.git
 	branch = .
